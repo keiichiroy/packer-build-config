@@ -1,0 +1,6 @@
+.git
+.ovf
+.vmdk
+packer_cache
+output-virtualbox
+vagrant-boxes
