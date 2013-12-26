@@ -1,6 +1,9 @@
 .git
 .ovf
 .vmdk
+*.iso
+*.box
+*.bak
 packer_cache
 output-virtualbox
 vagrant-boxes
